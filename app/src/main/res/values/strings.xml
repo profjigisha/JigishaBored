@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">JigishaBored</string>
+    <string name="i_like_this">I Like This</string>
+    <string name="show_something_else">Show Something Else</string>
 </resources>
