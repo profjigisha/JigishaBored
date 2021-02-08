@@ -27,6 +27,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
+        android:backgroundTint="@color/teal_700"
         android:text="@string/i_like_this"
         app:layout_constraintBottom_toTopOf="@+id/btnShowAnother"
         app:layout_constraintEnd_toEndOf="parent"
